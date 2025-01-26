@@ -52,21 +52,18 @@ Project Documentation
 For Software:
 
 Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
+![image](https://github.com/user-attachments/assets/4286b555-4498-4934-9570-8c790d8d199f)
+![image](https://github.com/user-attachments/assets/ba214fa6-c8e8-4476-9ae2-2a17bc469c02)
+![image](https://github.com/user-attachments/assets/1b6447dc-2727-4816-9b87-8f9829fa6534)
+![image](https://github.com/user-attachments/assets/2b96b3fd-1023-49bc-9036-9135887c9671)
+![image](https://github.com/user-attachments/assets/bca845ff-8a57-43ed-9e49-b007d62ea229)
 
-![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
 
-![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
 
-Diagrams
-![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
 
-For Hardware:
 
-Schematic & Circuit
-![Circuit](Add your circuit diagram here) Add caption explaining connections
 
-![Schematic](Add your schematic diagram here) Add caption explaining the schematic
+
 
 Build Photos
 ![Team](Add photo of your team here)
@@ -77,15 +74,16 @@ Build Photos
 
 ![Final](Add photo of final product here) Explain the final build
 
+![image](https://github.com/user-attachments/assets/38ca3a81-3b1e-4cda-9bb8-46e3ce2e3b9d)
+
 Project Demo
 Video
-[Add your demo video link here] Explain what the video demonstrates
+
 
 Additional Demos
 [Add any extra demo materials/links]
 
 Team Contributions
-[Name 1]: [Specific contributions]
-[Name 2]: [Specific contributions]
-[Name 3]: [Specific contributions]
+Arpana Sinha
+Aditi Ratnam Pandey
 Made with ❤️ at TinkerHub
